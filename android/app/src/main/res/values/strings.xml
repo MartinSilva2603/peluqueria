@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Aura Peluquería</string>
+    <string name="title_activity_main">Aura Peluquería</string>
+    <string name="package_name">com.aurasalon.app</string>
+    <string name="custom_url_scheme">com.aurasalon.app</string>
+</resources>
